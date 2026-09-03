@@ -41,7 +41,12 @@ public class HashMapLearning {
         for (String key : keys)
             System.out.println(key + " " + map.get(key));
 
-
+        /*
+        A Map itself isn't directly an Iterable, so you typically iterate through:
+        keySet()
+        values()
+        entrySet()
+        */
         //employees.keySet();    all keys
         //employees.values();    all values
         //employees.entrySet();  key-value pairs

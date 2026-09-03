@@ -36,8 +36,8 @@ public class HashSetLearning {
         //Iterator
         Iterator it = set.iterator();
 
-        //next() - gives the next element
-        //hasNext() - returns true or false regarding the existence of next element
+        //next() - retrieves the next element and moves the iterator forward
+        //hasNext() - checks for the existence of another element
 
         while (it.hasNext()) {
             System.out.println(it.next()); //automatically moves to next element

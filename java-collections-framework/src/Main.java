@@ -1,11 +1,12 @@
 import java.util.HashMap;
+import java.util.Map;
 
-import contactmanagementsystem.*;
+import contactmanagementsystem.Contact;
 
 public class Main {
     public static void main(String[] args) {
 
-        HashMap<String, Contact> contacts = new HashMap<>();
+        Map<String, Contact> contacts = new HashMap<>();
 
         //Add contacts
         Contact contact1 = new Contact("Mahesh", "9876543210", "mahesh@gmail.com");

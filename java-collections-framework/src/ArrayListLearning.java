@@ -5,7 +5,7 @@ public class ArrayListLearning {
     public static void main(String[] args) {
 
         ArrayList<Integer> list = new ArrayList<>();
-        ArrayList<String> list2 = new ArrayList<>();
+        //ArrayList<String> list2 = new ArrayList<>();
 
         //add(element) - Adds an element
         list.add(5);
