@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/advanced-collections-and-iteration/advanced-collections-and-iteration.iml" filepath="$PROJECT_DIR$/advanced-collections-and-iteration/advanced-collections-and-iteration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception-handling-fundamentals/exception-handling-fundamentals.iml" filepath="$PROJECT_DIR$/exception-handling-fundamentals/exception-handling-fundamentals.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-collections-framework/java-collections-framework.iml" filepath="$PROJECT_DIR$/java-collections-framework/java-collections-framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_learning_and_assignments_3.iml" filepath="$PROJECT_DIR$/java_learning_and_assignments_3.iml" />
     </modules>
